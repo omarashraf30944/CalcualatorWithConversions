@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="C2I"
+        android:icon="@drawable/ruler"
+        android:id="@+id/C2I"
+        />
+    <item
+        android:title="I2C"
+        android:icon="@drawable/ruler"
+        android:id="@+id/I2C"
+        />
+
+</menu>

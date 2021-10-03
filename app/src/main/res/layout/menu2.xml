@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="K2I"
+        android:icon="@drawable/weight__1_"
+        android:id="@+id/K2P"
+        />
+    <item
+        android:title="P2K"
+        android:icon="@drawable/weight__1_"
+        android:id="@+id/P2K"
+        />
+
+</menu>
